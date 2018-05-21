@@ -1,0 +1,19 @@
+{
+  "name": "express-gateway-plugin-universal",
+  "version": "1.0.0",
+  "description": "Generic plugin example for [Express Gateway](http://www.express-gateway.io/)",
+  "main": "manifest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^5.0.0",
+    "ip-filter": "^2.0.0",
+    "native-dns": "^0.7.0",
+    "request-ip": "^2.0.2",
+    "walk-sync": "^0.3.2",
+    "watch": "^1.0.2"
+  }
+}

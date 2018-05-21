@@ -1,0 +1,10 @@
+{
+    "$id": "http://express-gateway.io/config/api-auth.config.json",
+    "type": "object",
+    "properties": {
+
+    },
+    "required": [
+    ]
+  }
+  

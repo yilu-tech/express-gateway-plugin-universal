@@ -2,6 +2,9 @@
 const express = require('express');
 module.exports = {
   version: '1.0.0',
+  schema: {
+    $id: 'http://express-gateway.io/schemas/policies/universal-plugin.json',
+  },
   init: function (pluginContext) {
   
 
